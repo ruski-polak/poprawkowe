@@ -1,0 +1,5 @@
+Zadanie 1a: 496
+Zadanie 1b: 
+Najwieksza: 187869866
+Najmniejsza: 10010
+Zadanie 1c:['2389', '23567', '123456789', '3468']
